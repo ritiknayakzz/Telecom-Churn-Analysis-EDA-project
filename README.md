@@ -26,15 +26,15 @@ are being charged more than 70 units are more likely to churn than not.
 3. The statistical significance of the apparent effects are demonstrated using
 3 methods;
 
-  a. Effect size - Using Cohen’s d; An effect size of 0.67 suggested a
+    a. Effect size - Using Cohen’s d; An effect size of 0.67 suggested a
 medium effect.
 
-  b. Hypothesis testing - Using Permutation test; A p-value of 14%
+    b. Hypothesis testing - Using Permutation test; A p-value of 14%
 suggested that the null hypothesis “The customers that are charged
 more, churn less” could not be rejected. Perhaps we need more data
 to establish the claim.
 
-  c. Relative risk - Suggested that the customers that are being charged
+    c. Relative risk - Suggested that the customers that are being charged
 more than 70 units are about less likely to stay (not churn).
 
 4. The effect of other variables on the ‘Total charge’ variable is studied. Only the
